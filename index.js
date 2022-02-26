@@ -1,4 +1,4 @@
-let main = 10
+let main = 101
 function getMain(){
     return main
 }
